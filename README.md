@@ -9,7 +9,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ## 🔗 Live Site
 
-[View Live Site](https://ruqiash12-oss.github.io/blog-preview-card/)
+https://ruqiash12-oss.github.io/blog-preview-card/
 
 ## 💻 Built With
 
